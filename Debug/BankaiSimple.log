@@ -1,0 +1,78 @@
+﻿cl : Línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  world.cpp
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\world.cpp(99): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  winmain.cpp
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\winmain.cpp(25): warning C4007: 'WinMain': debe ser '__stdcall'
+  vector.cpp
+  tree.cpp
+  texture.cpp
+  terrain.cpp
+  simpengine.cpp
+  Q3Loader.cpp
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\q3loader.cpp(572): warning C4477: 'fprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'double'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\q3loader.cpp(572): warning C4477: 'fprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 2 tiene el tipo 'double'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\q3loader.cpp(572): warning C4477: 'fprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 3 tiene el tipo 'double'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\q3loader.cpp(573): warning C4477: 'fprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'double'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\q3loader.cpp(573): warning C4477: 'fprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 2 tiene el tipo 'double'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\q3loader.cpp(573): warning C4477: 'fprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 3 tiene el tipo 'double'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\q3loader.cpp(608): warning C4477: 'fprintf' : la cadena de formato '%f' requiere un argumento de tipo 'double', pero el argumento variádico 1 tiene el tipo 'const float *'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\q3loader.cpp(608): warning C4477: 'fprintf' : la cadena de formato '%f' requiere un argumento de tipo 'double', pero el argumento variádico 2 tiene el tipo 'const float *'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\q3loader.cpp(609): warning C4477: 'fprintf' : la cadena de formato '%f' requiere un argumento de tipo 'double', pero el argumento variádico 1 tiene el tipo 'const float *'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\q3loader.cpp(609): warning C4477: 'fprintf' : la cadena de formato '%f' requiere un argumento de tipo 'double', pero el argumento variádico 2 tiene el tipo 'const float *'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\q3loader.cpp(689): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+  oglwindow.cpp
+  object.cpp
+  nivel.cpp
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\nivel.cpp(336): warning C4018: '<': no coinciden signed/unsigned
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\nivel.cpp(355): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\nivel.cpp(356): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\nivel.cpp(357): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\nivel.cpp(394): warning C4018: '<': no coinciden signed/unsigned
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\nivel.cpp(410): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\nivel.cpp(413): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\nivel.cpp(417): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\nivel.cpp(420): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+  Mouse.cpp
+  md2.cpp
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\md2.cpp(166): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\md2.cpp(269): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+  Keyboard.cpp
+  Joystick.cpp
+  InputSystem.cpp
+  HiResTimer.cpp
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\hirestimer.cpp(31): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\hirestimer.cpp(51): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\hirestimer.cpp(79): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Frustum.cpp
+  font.cpp
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\font.cpp(65): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(549): note: vea la declaración de 'stricmp'
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\font.cpp(96): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1469): note: vea la declaración de 'vsprintf'
+  entity.cpp
+  Generando código...
+  Compilando...
+  engine.cpp
+  camera.cpp
+  bezier.cpp
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\bezier.cpp(26): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\bezier.cpp(27): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\bezier.cpp(28): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\bezier.cpp(41): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\bezier.cpp(42): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\bezier.cpp(43): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\bezier.cpp(51): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\bezier.cpp(52): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\alex\desktop\bankaiultimo\bankaisimple\src\bezier.cpp(53): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+  audiosystem.cpp
+  audio.cpp
+  Generando código...
+audio.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/SAFESEH'
+  BankaiSimple.vcxproj -> C:\Users\alex\Desktop\bankaiultimo\BankaiSimple\.\Debug\BankaiSimple.exe

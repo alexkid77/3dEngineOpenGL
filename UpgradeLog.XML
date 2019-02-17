@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BankaiSimple">
+</Property><Property Name="Solution File" Value="J:\bankaiultimo\BankaiSimple\BankaiSimple.sln">
+</Property><Property Name="User Options File" Value="J:\bankaiultimo\BankaiSimple\BankaiSimple.suo">
+</Property><Property Name="Date" Value="lunes, 21 de junio de 2010">
+</Property><Property Name="Time" Value="10:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BankaiSimple.sln" Description="File successfully backed up as J:\bankaiultimo\BankaiSimple\BankaiSimple.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="BankaiSimple.suo" Description="File successfully backed up as J:\bankaiultimo\BankaiSimple\BankaiSimple.suo.old">
+</Event><Event ErrorLevel="0" Project="BankaiSimple" Source="BankaiSimple.vcproj" Description="Converting project file 'J:\bankaiultimo\BankaiSimple\BankaiSimple.vcproj'.">
+</Event><Event ErrorLevel="1" Project="BankaiSimple" Source="BankaiSimple.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="BankaiSimple" Source="BankaiSimple.vcproj" Description="MSB8012: $(TargetPath) ('J:\bankaiultimo\BankaiSimple\.\Release\BankaiSimple.exe') does not match the Linker's OutputFile property value '.\Release/BankaiSimple.exe' ('J:\bankaiultimo\BankaiSimple\Release/BankaiSimple.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="BankaiSimple" Source="BankaiSimple.vcproj" Description="MSB8012: $(TargetPath) ('J:\bankaiultimo\BankaiSimple\.\Debug\BankaiSimple.exe') does not match the Linker's OutputFile property value '.\Debug/BankaiSimple.exe' ('J:\bankaiultimo\BankaiSimple\Debug/BankaiSimple.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="BankaiSimple" Source="BankaiSimple.vcproj" Description="Done converting to new project file 'J:\bankaiultimo\BankaiSimple\BankaiSimple.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="BankaiSimple" Source="BankaiSimple.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BankaiSimple.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BankaiSimple.sln" Description="Converted">
+</Event></UpgradeLog>

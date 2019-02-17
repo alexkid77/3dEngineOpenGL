@@ -1,0 +1,108 @@
+12-03-00             -          metric
+
+***THIS MODEL IS NOT TO BE RATED OR REVIEWED***   (Just the skins) ***BUT NOT THE MODEL!!!****
+
+===========================================================================================
+
+Model Name		: SuperFlashOmegaDragon8 (SFOD8)
+
+install dir		: quake2/baseq2/players/SFOD8/
+
+Authors			: Burnt Kona, Crash, Firestarter, OgrO_FiX, Sgt. Science
+
+Email			: science@pathcom.com
+
+Model Description	: Gah. My nightmare. A project I started a long time ago and enlisted the help of some very
+			  talented skinners to help me out. Things were going good, and I had high hopes for this
+			  model, then I got distracted by some crap, like moving, left him to rot on my HD for ages.
+			  Every time I came back to tweak him and finish it off, something fucked up. I can no
+			  Longer edit the files cause of software version differences, the files are all over my HD,
+			  and I can't even see him in Q2 since it doesn't like my new video card and won't load. The
+			  last time I even saw this model was months ago. But I showed it to Firestarter cause I 
+			  felt like a flake, and he encouraged my to send it out anyways, and have faith that people
+			  would look past his short comings. And even though the model has problems, you can still 
+			  check out the great skins, cause I owe the skinners that much at least. Read further to
+			  see his problems.
+			  
+			  
+
+Credits			: FIRESTARTER! OgrO_FIX! BURNT KONA! CRASH!
+	        	  Idsoftware 
+			  NST
+			  Qtip
+			
+Thanks go out to        : FIRESTARTER! OgrO_FIX! BURNT KONA! CRASH!
+			  I gave them a nightmare of a skin map, and they all said "Ya! Painting on this segmented piece of
+			  crap may be like having a rusty hook gouge my eyes out over a long period of time, but
+			  hey! We love you Science! I'll do anything to skin your great model!" ok... they might
+			  not have said that EXACTLY, but that's how I remember it, and I now that's how they were
+			  feeling.
+			  My sincerest apologies guys. You did great work.
+
+(please don't kill me)
+===========================================================================================
+ * play Info *
+
+New Sounds		: I'm a flake, remember?
+
+CTF Skins		: I'm a flake, remember?
+
+VWEP Support		: I'm a flake, remember?
+
+ * Construction *
+
+Poly Count:
+
+		Tris	Weapon	  Total
+		732	109	  841
+
+		
+
+Vert Count:
+
+		Tris	Weapon	  Total
+		395	70	  465
+
+	
+
+
+Skin Count		: 4 DM
+			 Reiger   by Burnt Kona
+
+			 Tengu    by Firestarter
+
+			 skin01cs by Crash
+
+			 abarlith by OgrO_FiX
+
+
+
+
+Editors Used		:this model is crap! forget it! it doesn't count! Why do you care?
+
+Other Rants:
+	on my failings:
+
+		1. First! this started as a decent model! so construction and poly count are alright... still break
+		   800, but better than @'s count.
+
+		2. Second! the big problems! If i remember right... uh... don't even bother looking at the wave 
+		   animation or you may go blind! really! and the sad part is, I was just messing with a new anim.
+		   I had a fairly good flying spin kick in there before, and now I can't even change it back! It
+		   could be a half decent model if not for that! dammit! and man... the crouch walk... *sigh* I was
+		   doing some experimentation there too... I think the CRdeath is about 2 keyframes as well,,, 1 
+		   crouching at the first frame, then 1 dead at the last frame... *double sigh* The stand anim too..
+		   it loops fairly poorly. I was editing that too, but thankfully I was almost done... I think the 
+		   only other problems are the pain anims 1 and 3... more experimentation, but pain 2 should be ok.
+
+		3. this isn't really a problem since I took them out but... I even had like, 7 Vweps done, but they
+		   would be floating all over the model trying to match animations that don't exist, So I got rid of
+		   them. Man do I ever suck.		 
+
+any questions, concerns, flames, send them my way... I don't know if the skinners want to be bothered, of if I 
+should put their addresses in here or not so.... if u have anything to say to them, just send it though me and
+I'll pass it along
+
+Jones, the Sergeant of Science
+
+I REALLY hope these are the right files...

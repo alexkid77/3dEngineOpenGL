@@ -1,0 +1,53 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BankaiSimple - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\jose\CONFIG~1\Temp\RSP34.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GR /GX /ZI /Od /I "include" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/BankaiSimple.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\jose\Escritorio\BankaiSimple\src\winmain.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\jose\CONFIG~1\Temp\RSP34.tmp" 
+Creating temporary file "C:\DOCUME~1\jose\CONFIG~1\Temp\RSP35.tmp" with contents
+[
+SDL_image.lib SDL_mixer.lib SDL.lib OpenGL32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/BankaiSimple.pdb" /debug /machine:I386 /out:"Debug/BankaiSimple.exe" /pdbtype:sept /libpath:"lib" 
+".\Debug\audio.obj"
+".\Debug\audiosystem.obj"
+".\Debug\camera.obj"
+".\Debug\engine.obj"
+".\Debug\entity.obj"
+".\Debug\font.obj"
+".\Debug\HiResTimer.obj"
+".\Debug\InputSystem.obj"
+".\Debug\Joystick.obj"
+".\Debug\Keyboard.obj"
+".\Debug\md2.obj"
+".\Debug\Mouse.obj"
+".\Debug\object.obj"
+".\Debug\oglwindow.obj"
+".\Debug\simpengine.obj"
+".\Debug\terrain.obj"
+".\Debug\texture.obj"
+".\Debug\tree.obj"
+".\Debug\vector.obj"
+".\Debug\winmain.obj"
+".\Debug\world.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\jose\CONFIG~1\Temp\RSP35.tmp"
+<h3>Output Window</h3>
+Compiling...
+winmain.cpp
+C:\Documents and Settings\jose\Escritorio\BankaiSimple\src\winmain.cpp(25) : warning C4007: 'WinMain' : must be '__stdcall'
+Linking...
+
+
+
+<h3>Results</h3>
+BankaiSimple.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>
