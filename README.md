@@ -11,4 +11,4 @@ This is a 3d engine written from scratch in my last semester on the university (
 ![6](https://raw.githubusercontent.com/alexkid77/3dEngineOpenGL/master/screenshots/6.png)
 
 ## Video
-![video](https://img.youtube.com/vi/BfZUrH3YuSM/0.jpg)](https://www.youtube.com/watch?v=BfZUrH3YuSM
+![video](https://img.youtube.com/vi/BfZUrH3YuSM/0.jpg)(https://www.youtube.com/watch?v=BfZUrH3YuSM
