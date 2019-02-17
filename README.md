@@ -1,6 +1,13 @@
 # 3dEngineOpenGL
 
 This is a 3d engine written from scratch in my last semester on the university (Spring 2009) 
+### Features
+
+Write in C++ using OpenGL and SDL
+-Frustrum Culling
+-BSP trees
+-Collisions with BSP Trees
+-Lightmaps
 
 ## Captures
 ![1](https://raw.githubusercontent.com/alexkid77/3dEngineOpenGL/master/screenshots/1.png)
